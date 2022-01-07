@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/db/DbSetting.iml" filepath="$PROJECT_DIR$/db/DbSetting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/MyService.iml" filepath="$PROJECT_DIR$/service/MyService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/main.iml" filepath="$PROJECT_DIR$/service/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db/src.iml" filepath="$PROJECT_DIR$/db/src.iml" />
+    </modules>
+  </component>
+</project>
